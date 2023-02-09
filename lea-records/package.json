@@ -11,6 +11,7 @@
     "uuidv4": "^6.2.13"
   },
   "scripts": {
+    "dev": "serverless offline start",
     "test": "jest"
   },
   "devDependencies": {
