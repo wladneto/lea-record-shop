@@ -92,3 +92,9 @@ $ npm run test
 2. Exemplo:
 
 ![assets/001.png](assets/004.png)
+
+---
+
+## Objetivo do projeto
+
+Apenas estudos
